@@ -1,5 +1,5 @@
 require('dotenv').config()
-const { app } = require('firebase-admin')
+//const { app } = require('firebase-admin')
 //Entorno de firabase admin inicialize app y applicationdefault
 const  {initializeApp, applicationDefault } = require('firebase-admin/app')
 //Para usar todo lo de firebase
